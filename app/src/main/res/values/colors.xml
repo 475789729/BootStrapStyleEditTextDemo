@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+    <color name="v_disable">#10000000</color>
+    <color name="v_edit_border">#66afe9</color>
+    <color name="v_edit_shadow_start">#5566afe9</color>
+    <color name="v_edit_shadow_end">#3366afe9</color>
+    <color name="v_border">#26000000</color>
+</resources>
